@@ -12,4 +12,4 @@ https://teachablemachine.withgoogle.com/models/sxzt9JQ8E/
       + 4단계
 ---
 ## 소감
-
+직접 티처블 머신을 만들어보니 신기했다. 깃허브를 사용하는 방법을 알게되어 좋았다. 또 다른 티처블 머신을 만들어보고싶다.
